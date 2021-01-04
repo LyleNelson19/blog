@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://LyleNelson19.github.io/blogsitemap.xml
